@@ -1,13 +1,26 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+strong {
+  font-style: oblique;
+  font-weight: 800;
+  color: gray;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background-color: beige;
+}
+
+h2 {
+  font-family: monospace;
+  color: cadetblue;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: cadetblue;
+}
+
+ul, li, ol, li {
+  color:darkcyan;
+}
+.Addition {
+  color: blue;
 }
